@@ -1,7 +1,7 @@
 # Bot Share
 
 - [GITHUB](#github) 
-- [SOCIALMEDIA](socialmedia) 
+- [SOCIALMEDIA](#socialmedia) 
 - [BASICMODULES](#basicmodules) 
 - [RUN](#run) 
 - [IMAGES](#images)
